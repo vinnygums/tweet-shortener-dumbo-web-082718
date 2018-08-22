@@ -13,5 +13,5 @@ end
 
 def word_substituter(string)
   string.split
-  
+binding.pry
 end
