@@ -12,6 +12,6 @@ def dictionary
 end
 
 def word_substituter(string)
-  string.split
-binding.pry
+  array = string.split
+  binding.pry
 end
